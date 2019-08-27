@@ -1,0 +1,95 @@
+#header{
+    width: 100%;
+    height: 30px;
+}
+#more{
+    width: 500px;
+    height: 15px;
+    margin-left: 990px;
+    margin-top: 6px;
+}
+#more a{
+    margin-left: 10px;
+}
+#wk{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+}
+#nr{
+    width: 500px;
+    height: 100%;
+    border: 1px white solid;
+    margin: auto;
+}
+#nr_1{
+    width: 100%;
+    height: 100px;
+    /*background-color: white;*/
+    padding-top: 150px;
+}
+#nr_2{
+    width: 100%;
+    height: 220px;
+    /*background-color: salmon;*/
+    padding-top: 80px;
+}
+#nr_1_img{
+    height: 50px;
+    width: 80px;
+    margin: auto;
+}
+#nr_1_img img{
+
+    width: 100%;
+}
+#nr_1_inp{
+    width: 250px;
+    height: 30px;
+    margin: auto;
+}
+#anniu{
+    background-color: #3385FF;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    left:3px;
+}
+#nr_2_img{
+    height: 80px;
+    width: 80px;
+    margin: auto;
+}
+#nr_2_img img{
+
+    width: 100%;
+}
+#download{
+    height: 10px;
+    width: 80px;
+    margin: auto;
+    font-size: small;
+}
+#search{
+    margin-top: 100px;
+    width: 135px;
+    margin: auto;
+    font-size: small;
+    color: darkgrey;
+}
+#blank{
+    border:3px white solid;
+}
+#blank1{
+    border:4px white solid;
+}
+#lianjie a{
+    color: darkgrey;
+    margin-left: 30px;
+}
+#banquan{
+    font-size: 10px;
+}
+#banquan img{
+    position: absolute;
+}
